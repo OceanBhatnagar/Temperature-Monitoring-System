@@ -16,8 +16,7 @@ Welcome to the Temperature and Humidity Monitoring System project repository! Th
 ## Project Structure
 - **Code**: Arduino code responsible for reading sensor data and displaying it on the LCD screen.
 - **Project Photographs**: Images showing the setup of the components.
-- **Schematics**: Circuit diagram illustrating how the components are connected.
-- **TinkerCAD Diagram**: A visual representation of the circuit in TinkerCAD.
+
 
 
 
