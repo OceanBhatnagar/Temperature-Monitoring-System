@@ -11,7 +11,7 @@ int DHTPIN=2;
 DHT dht(DHTPIN,DHTTYPE);
 
 int h,t;
-i
+
 void setup(){
   lcd.init();
   lcd.backlight();
